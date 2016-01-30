@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about Taylor Pratt:
 
 Taylor Pratt is a undergraduate electrical engineer student at the University of Texas at Arlington.
 
-A place to include any other types of information that you'd like to include about yourself.
+
+Contact information:
 
 http://taeann0990.github.io/
 
