@@ -6,7 +6,7 @@
 name: Taylor Pratt
 
 # Short bio or description (displayed in the header)
-description: Software Carpentry workshop
+description: Software Carpentry workshop <-- so much fun!!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/16978227?v=3&s=460
@@ -17,8 +17,8 @@ avatar: https://avatars2.githubusercontent.com/u/16978227?v=3&s=460
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: dontyouwishyouknew@gmail.com
+  facebook: www.facebook.com/me
   flickr:
   github: barryclark/jekyll-now
   instagram:
